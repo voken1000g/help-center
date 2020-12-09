@@ -1,3 +1,3 @@
 # Help Center
 
-Just file a issue.
+Just file your issue.
